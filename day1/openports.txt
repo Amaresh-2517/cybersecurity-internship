@@ -1,0 +1,14 @@
+# Nmap 7.98 scan initiated Mon Sep 22 18:06:08 2025 as: nmap -sS --open -oN /Users/amaresh/Desktop/internship/day1/openports.txt 127.0.0.1/24
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.00049s latency).
+Not shown: 992 closed tcp ports (reset)
+PORT     STATE SERVICE
+53/tcp   open  domain
+88/tcp   open  kerberos-sec
+445/tcp  open  microsoft-ds
+3306/tcp open  mysql
+5000/tcp open  upnp
+5432/tcp open  postgresql
+7000/tcp open  afs3-fileserver
+8021/tcp open  ftp-proxy
+
