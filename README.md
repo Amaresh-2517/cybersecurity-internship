@@ -1,24 +1,24 @@
 # Cybersecurity Internship Tasks 2025
 
-This repository contains my cybersecurity internship tasks, organized day-wise.
+This repository contains my cybersecurity internship tasks, organized task-wise.
 
-## Day 1 — Network Recon with Nmap
+## task 1 — Network Recon with Nmap
 - Tools: Nmap, Wireshark
 - Tasks: Ping sweep, SYN scan, OS detection
-- [See details](day1/README.md)
+- [See details](task1/README.md)
 
-## Day 2 — Phishing Email Analysis
+## task 2 — Phishing Email Analysis
 - Tools: MXToolbox, Google Header Analyzer
 - Tasks: Phishing email investigation, spoofing checks, header analysis
-- [See details](day2/README.md)
+- [See details](task2/README.md)
 
-## Day 3 — Vulnerability Scan on Localhost
+## task 3 — Vulnerability Scan on Localhost
 
   * Tools: Nessus Essentials (macOS)
   * Tasks: Ran a vulnerability scan on `127.0.0.1`, identified **2 High** (c-ares, Ruby REXML) and **2 Medium** (WEBrick, SSL certificate) vulnerabilities.
   * [See details](./task3)
 
-## Day 4 — Firewall Management on Kali Linux
+## task 4 — Firewall Management on Kali Linux
 
 git
 -	Tools: UFW (Uncomplicated Firewall), Terminal
