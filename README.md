@@ -17,3 +17,12 @@ This repository contains my cybersecurity internship tasks, organized day-wise.
   * Tools: Nessus Essentials (macOS)
   * Tasks: Ran a vulnerability scan on `127.0.0.1`, identified **2 High** (c-ares, Ruby REXML) and **2 Medium** (WEBrick, SSL certificate) vulnerabilities.
   * [See details](./task3)
+
+## Day 4 — Firewall Management on Kali Linux
+
+git
+-	Tools: UFW (Uncomplicated Firewall), Terminal
+-	Tasks: Installed and configured UFW on Kali Linux, allowed SSH (22), HTTP (80), HTTPS (443), blocked Telnet (23)
+  tested enabling, disabling, resetting, and uninstalling the firewall.
+-	Outcome: Practiced basic firewall management and network traffic filtering.
+- [See details](./task4/)
