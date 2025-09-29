@@ -20,9 +20,15 @@ This repository contains my cybersecurity internship tasks, organized task-wise.
 
 ## task 4 — Firewall Management on Kali Linux
 
-git
 -	Tools: UFW (Uncomplicated Firewall), Terminal
 -	Tasks: Installed and configured UFW on Kali Linux, allowed SSH (22), HTTP (80), HTTPS (443), blocked Telnet (23)
   tested enabling, disabling, resetting, and uninstalling the firewall.
 -	Outcome: Practiced basic firewall management and network traffic filtering.
 - [See details](./task4/)
+
+## task 5 — Capture and Analyze Network Traffic Using Wireshark
+
+  -Tools: Wireshark  
+  -Tasks: Captured live network traffic, generated traffic by browsing and pinging, applied filters (DNS, TCP, ICMP), and -identified multiple protocols.  
+  -Outcome: Practiced packet capture and protocol analysis, gaining awareness of how different protocols function in network -communication.  
+  -[See details](./task5/)
